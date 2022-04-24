@@ -2,6 +2,7 @@
 My Name is Raygie Ramos. Welcome to my GitHub!
 
 ### My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raygie&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raygie&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
